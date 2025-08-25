@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\2432961\\Videos\\Mock_call_test\\Backend_Autharization\\AUTHULU\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CDAFB581-C8B4-4681-9603-A968337A2214}|AUTHULU\\AUTHULU.csproj|c:\\users\\2432961\\videos\\mock_call_test\\backend_autharization\\authulu\\authulu\\data\\authdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDAFB581-C8B4-4681-9603-A968337A2214}|AUTHULU\\AUTHULU.csproj|solutionrelative:authulu\\data\\authdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDAFB581-C8B4-4681-9603-A968337A2214}|AUTHULU\\AUTHULU.csproj|c:\\users\\2432961\\videos\\mock_call_test\\backend_autharization\\authulu\\authulu\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CDAFB581-C8B4-4681-9603-A968337A2214}|AUTHULU\\AUTHULU.csproj|solutionrelative:authulu\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDAFB581-C8B4-4681-9603-A968337A2214}|AUTHULU\\AUTHULU.csproj|c:\\users\\2432961\\videos\\mock_call_test\\backend_autharization\\authulu\\authulu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDAFB581-C8B4-4681-9603-A968337A2214}|AUTHULU\\AUTHULU.csproj|solutionrelative:authulu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDAFB581-C8B4-4681-9603-A968337A2214}|AUTHULU\\AUTHULU.csproj|c:\\users\\2432961\\videos\\mock_call_test\\backend_autharization\\authulu\\authulu\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDAFB581-C8B4-4681-9603-A968337A2214}|AUTHULU\\AUTHULU.csproj|solutionrelative:authulu\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDAFB581-C8B4-4681-9603-A968337A2214}|AUTHULU\\AUTHULU.csproj|c:\\users\\2432961\\videos\\mock_call_test\\backend_autharization\\authulu\\authulu\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDAFB581-C8B4-4681-9603-A968337A2214}|AUTHULU\\AUTHULU.csproj|solutionrelative:authulu\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2432961\\Videos\\Mock_call_test\\Backend_Autharization\\AUTHULU\\AUTHULU\\Migrations\\20250823104945_MigrationOne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AUTHULU\\Migrations\\20250823104945_MigrationOne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDAFB581-C8B4-4681-9603-A968337A2214}|AUTHULU\\AUTHULU.csproj|c:\\users\\2432961\\videos\\mock_call_test\\backend_autharization\\authulu\\authulu\\repositories\\implementation\\tokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDAFB581-C8B4-4681-9603-A968337A2214}|AUTHULU\\AUTHULU.csproj|solutionrelative:authulu\\repositories\\implementation\\tokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDAFB581-C8B4-4681-9603-A968337A2214}|AUTHULU\\AUTHULU.csproj|c:\\users\\2432961\\videos\\mock_call_test\\backend_autharization\\authulu\\authulu\\repositories\\interface\\itokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDAFB581-C8B4-4681-9603-A968337A2214}|AUTHULU\\AUTHULU.csproj|solutionrelative:authulu\\repositories\\interface\\itokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDAFB581-C8B4-4681-9603-A968337A2214}|AUTHULU\\AUTHULU.csproj|c:\\users\\2432961\\videos\\mock_call_test\\backend_autharization\\authulu\\authulu\\models\\dto\\registerrequsetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDAFB581-C8B4-4681-9603-A968337A2214}|AUTHULU\\AUTHULU.csproj|solutionrelative:authulu\\models\\dto\\registerrequsetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDAFB581-C8B4-4681-9603-A968337A2214}|AUTHULU\\AUTHULU.csproj|c:\\users\\2432961\\videos\\mock_call_test\\backend_autharization\\authulu\\authulu\\models\\dto\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDAFB581-C8B4-4681-9603-A968337A2214}|AUTHULU\\AUTHULU.csproj|solutionrelative:authulu\\models\\dto\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDAFB581-C8B4-4681-9603-A968337A2214}|AUTHULU\\AUTHULU.csproj|c:\\users\\2432961\\videos\\mock_call_test\\backend_autharization\\authulu\\authulu\\models\\dto\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDAFB581-C8B4-4681-9603-A968337A2214}|AUTHULU\\AUTHULU.csproj|solutionrelative:authulu\\models\\dto\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDAFB581-C8B4-4681-9603-A968337A2214}|AUTHULU\\AUTHULU.csproj|c:\\users\\2432961\\videos\\mock_call_test\\backend_autharization\\authulu\\authulu\\authulu.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CDAFB581-C8B4-4681-9603-A968337A2214}|AUTHULU\\AUTHULU.csproj|solutionrelative:authulu\\authulu.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20250823104945_MigrationOne.cs",
+              "DocumentMoniker": "C:\\Users\\2432961\\Videos\\Mock_call_test\\Backend_Autharization\\AUTHULU\\AUTHULU\\Migrations\\20250823104945_MigrationOne.cs",
+              "RelativeDocumentMoniker": "AUTHULU\\Migrations\\20250823104945_MigrationOne.cs",
+              "ToolTip": "C:\\Users\\2432961\\Videos\\Mock_call_test\\Backend_Autharization\\AUTHULU\\AUTHULU\\Migrations\\20250823104945_MigrationOne.cs",
+              "RelativeToolTip": "AUTHULU\\Migrations\\20250823104945_MigrationOne.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T10:49:46.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TokenRepository.cs",
+              "DocumentMoniker": "C:\\Users\\2432961\\Videos\\Mock_call_test\\Backend_Autharization\\AUTHULU\\AUTHULU\\Repositories\\Implementation\\TokenRepository.cs",
+              "RelativeDocumentMoniker": "AUTHULU\\Repositories\\Implementation\\TokenRepository.cs",
+              "ToolTip": "C:\\Users\\2432961\\Videos\\Mock_call_test\\Backend_Autharization\\AUTHULU\\AUTHULU\\Repositories\\Implementation\\TokenRepository.cs",
+              "RelativeToolTip": "AUTHULU\\Repositories\\Implementation\\TokenRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T10:46:57.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\2432961\\Videos\\Mock_call_test\\Backend_Autharization\\AUTHULU\\AUTHULU\\appsettings.json",
+              "RelativeDocumentMoniker": "AUTHULU\\appsettings.json",
+              "ToolTip": "C:\\Users\\2432961\\Videos\\Mock_call_test\\Backend_Autharization\\AUTHULU\\AUTHULU\\appsettings.json",
+              "RelativeToolTip": "AUTHULU\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-23T10:43:06.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\2432961\\Videos\\Mock_call_test\\Backend_Autharization\\AUTHULU\\AUTHULU\\Program.cs",
+              "RelativeDocumentMoniker": "AUTHULU\\Program.cs",
+              "ToolTip": "C:\\Users\\2432961\\Videos\\Mock_call_test\\Backend_Autharization\\AUTHULU\\AUTHULU\\Program.cs",
+              "RelativeToolTip": "AUTHULU\\Program.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAnwFIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T10:41:27.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\2432961\\Videos\\Mock_call_test\\Backend_Autharization\\AUTHULU\\AUTHULU\\Data\\AuthDbContext.cs",
+              "RelativeDocumentMoniker": "AUTHULU\\Data\\AuthDbContext.cs",
+              "ToolTip": "C:\\Users\\2432961\\Videos\\Mock_call_test\\Backend_Autharization\\AUTHULU\\AUTHULU\\Data\\AuthDbContext.cs",
+              "RelativeToolTip": "AUTHULU\\Data\\AuthDbContext.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowDcAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T10:31:09.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RegisterRequsetDto.cs",
+              "DocumentMoniker": "C:\\Users\\2432961\\Videos\\Mock_call_test\\Backend_Autharization\\AUTHULU\\AUTHULU\\Models\\DTO\\RegisterRequsetDto.cs",
+              "RelativeDocumentMoniker": "AUTHULU\\Models\\DTO\\RegisterRequsetDto.cs",
+              "ToolTip": "C:\\Users\\2432961\\Videos\\Mock_call_test\\Backend_Autharization\\AUTHULU\\AUTHULU\\Models\\DTO\\RegisterRequsetDto.cs",
+              "RelativeToolTip": "AUTHULU\\Models\\DTO\\RegisterRequsetDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T10:29:39.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\2432961\\Videos\\Mock_call_test\\Backend_Autharization\\AUTHULU\\AUTHULU\\Models\\DTO\\LoginResponseDto.cs",
+              "RelativeDocumentMoniker": "AUTHULU\\Models\\DTO\\LoginResponseDto.cs",
+              "ToolTip": "C:\\Users\\2432961\\Videos\\Mock_call_test\\Backend_Autharization\\AUTHULU\\AUTHULU\\Models\\DTO\\LoginResponseDto.cs",
+              "RelativeToolTip": "AUTHULU\\Models\\DTO\\LoginResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T10:28:48.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\2432961\\Videos\\Mock_call_test\\Backend_Autharization\\AUTHULU\\AUTHULU\\Models\\DTO\\LoginRequestDto.cs",
+              "RelativeDocumentMoniker": "AUTHULU\\Models\\DTO\\LoginRequestDto.cs",
+              "ToolTip": "C:\\Users\\2432961\\Videos\\Mock_call_test\\Backend_Autharization\\AUTHULU\\AUTHULU\\Models\\DTO\\LoginRequestDto.cs",
+              "RelativeToolTip": "AUTHULU\\Models\\DTO\\LoginRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T10:27:46.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\2432961\\Videos\\Mock_call_test\\Backend_Autharization\\AUTHULU\\AUTHULU\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "AUTHULU\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\2432961\\Videos\\Mock_call_test\\Backend_Autharization\\AUTHULU\\AUTHULU\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "AUTHULU\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowBAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T10:22:49.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\2432961\\Videos\\Mock_call_test\\Backend_Autharization\\AUTHULU\\AUTHULU\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "AUTHULU\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\2432961\\Videos\\Mock_call_test\\Backend_Autharization\\AUTHULU\\AUTHULU\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "AUTHULU\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T10:50:19.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ITokenRepository.cs",
+              "DocumentMoniker": "C:\\Users\\2432961\\Videos\\Mock_call_test\\Backend_Autharization\\AUTHULU\\AUTHULU\\Repositories\\Interface\\ITokenRepository.cs",
+              "RelativeDocumentMoniker": "AUTHULU\\Repositories\\Interface\\ITokenRepository.cs",
+              "ToolTip": "C:\\Users\\2432961\\Videos\\Mock_call_test\\Backend_Autharization\\AUTHULU\\AUTHULU\\Repositories\\Interface\\ITokenRepository.cs",
+              "RelativeToolTip": "AUTHULU\\Repositories\\Interface\\ITokenRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T10:25:43.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AUTHULU",
+              "DocumentMoniker": "C:\\Users\\2432961\\Videos\\Mock_call_test\\Backend_Autharization\\AUTHULU\\AUTHULU\\AUTHULU.csproj",
+              "RelativeDocumentMoniker": "AUTHULU\\AUTHULU.csproj",
+              "ToolTip": "C:\\Users\\2432961\\Videos\\Mock_call_test\\Backend_Autharization\\AUTHULU\\AUTHULU\\AUTHULU.csproj",
+              "RelativeToolTip": "AUTHULU\\AUTHULU.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-23T10:23:14.759Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
